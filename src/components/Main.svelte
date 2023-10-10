@@ -116,7 +116,7 @@
         The <span class="text-violet-400">Complete</span> Package
     </h5>
     <div
-        class="flex flex-col overflow-x-scroll gap-10 max-w-[800px] mx-auto w-full"
+        class="flex flex-col overflow-x-scroll gap-10 max-w-[800px] mx-auto w-full no-scrollbar"
     >
         <table class="bg-white text-slate-700 rounded text-center">
             <thead class={"border-b border-solid border-slate-200  "}>
